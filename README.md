@@ -1,5 +1,9 @@
 # 💫 About Me:
-Soy un  Estudiante de "Desarrollo de Software" estoy dispuesto a aprender sobre la programació.<br><br>Actualmente estoy aprendiendo a ser un desarrollodor de software.<br>Me interesa mejorar mis habilidades  en programación y desarrollo web. Soy bueno resolviendo problemas y me encantaria expandir mis conocimientos.<br>Por el momento estoy trabajando en proyectos personales (Manual de Marca) para poner a prueba mis conocimientos y habilidades.<br>Mis objetivos son  convertirme en un buen programador en Desarrollo de Software y a futuro convertime en un ingeniero en sistemas.
+Soy estudiante de Desarrollo de Software, apasionado por la programación y el desarrollo web. Me caracterizo por mi capacidad para resolver problemas, aprender de manera constante y adquirir nuevos conocimientos.
+
+Actualmente, estoy desarrollando competencias en lógica de programación y tecnologías backend como Python, y JavaScript, así como en diseño y maquetación web utilizando HTML5, CSS, Adobe Photoshop y Adobe Illustrator. Para fortalecer mis conocimientos, trabajo en proyectos personales que combinan el desarrollo de software con la creación de identidad visual y marca.
+
+Mi objetivo a corto plazo es consolidarme como un desarrollador de software competente y, a futuro, culminar mis estudios de Ingeniería en Sistemas para ampliar mis conocimientos y oportunidades profesionales.
 
 
 ## 🌐 Socials:
