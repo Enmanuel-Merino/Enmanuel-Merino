@@ -1,7 +1,7 @@
 # 💫 About Me:
-Soy estudiante de Desarrollo de Software, apasionado por la programación y el desarrollo web. Me caracterizo por mi capacidad para resolver problemas, aprender de manera constante y adquirir nuevos conocimientos.
+Soy estudiante de Desarrollo de Software, apasionado por la programación y el Desarrollo Web. Me caracterizo por mi capacidad para resolver problemas, aprender de manera constante y adquirir nuevos conocimientos.
 
-Actualmente, estoy desarrollando competencias en lógica de programación y tecnologías backend como Python, y JavaScript, así como en diseño y maquetación web utilizando HTML5, CSS, Adobe Photoshop y Adobe Illustrator. Para fortalecer mis conocimientos, trabajo en proyectos personales que combinan el desarrollo de software con la creación de identidad visual y marca.
+Actualmente, estoy desarrollando competencias en lógica de programación y tecnologías frontend como Python, y JavaScript, así como en diseño y maquetación web utilizando HTML5, CSS, Adobe Photoshop y Adobe Illustrator. Para fortalecer mis conocimientos, trabajo en proyectos personales que combinan el desarrollo de software con la creación de identidad visual y marca.
 
 Mi objetivo a corto plazo es consolidarme como un desarrollador de software competente y, a futuro, culminar mis estudios de Ingeniería en Sistemas para ampliar mis conocimientos y oportunidades profesionales.
 
